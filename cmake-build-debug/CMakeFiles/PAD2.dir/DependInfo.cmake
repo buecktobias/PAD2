@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/tobias/CLionProjects/PAD2/aufgabe1a.cpp" "/home/tobias/CLionProjects/PAD2/cmake-build-debug/CMakeFiles/PAD2.dir/aufgabe1a.cpp.o"
   "/home/tobias/CLionProjects/PAD2/aufgabe1b.cpp" "/home/tobias/CLionProjects/PAD2/cmake-build-debug/CMakeFiles/PAD2.dir/aufgabe1b.cpp.o"
+  "/home/tobias/CLionProjects/PAD2/aufgabe2.cpp" "/home/tobias/CLionProjects/PAD2/cmake-build-debug/CMakeFiles/PAD2.dir/aufgabe2.cpp.o"
   "/home/tobias/CLionProjects/PAD2/main.cpp" "/home/tobias/CLionProjects/PAD2/cmake-build-debug/CMakeFiles/PAD2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

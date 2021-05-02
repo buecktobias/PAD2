@@ -7,6 +7,10 @@ CMakeFiles/PAD2.dir/aufgabe1a.cpp.o: ../aufgabe1a.h
 CMakeFiles/PAD2.dir/aufgabe1b.cpp.o: ../aufgabe1b.cpp
 CMakeFiles/PAD2.dir/aufgabe1b.cpp.o: ../aufgabe1b.h
 
+CMakeFiles/PAD2.dir/aufgabe2.cpp.o: ../aufgabe2.cpp
+CMakeFiles/PAD2.dir/aufgabe2.cpp.o: ../aufgabe2.h
+
 CMakeFiles/PAD2.dir/main.cpp.o: ../aufgabe1b.h
+CMakeFiles/PAD2.dir/main.cpp.o: ../aufgabe2.h
 CMakeFiles/PAD2.dir/main.cpp.o: ../main.cpp
 
