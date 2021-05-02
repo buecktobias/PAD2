@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/PAD2.dir/main.cpp.o CMakeFiles/PAD2.dir/aufgabe1a.cpp.o -o PAD2 
+/usr/bin/c++ -g CMakeFiles/PAD2.dir/main.cpp.o CMakeFiles/PAD2.dir/aufgabe1a.cpp.o CMakeFiles/PAD2.dir/aufgabe1b.cpp.o -o PAD2 

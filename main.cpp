@@ -1,6 +1,7 @@
 #include <iostream>
-#include "aufgabe1a.h"
+#include "aufgabe1b.h"
+
 int main() {
-    start1a();
+    start1b();
     return 0;
 }

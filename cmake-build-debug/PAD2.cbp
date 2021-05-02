@@ -88,6 +88,12 @@
 		<Unit filename="/home/tobias/CLionProjects/PAD2/aufgabe1a.h">
 			<Option target="PAD2"/>
 		</Unit>
+		<Unit filename="/home/tobias/CLionProjects/PAD2/aufgabe1b.cpp">
+			<Option target="PAD2"/>
+		</Unit>
+		<Unit filename="/home/tobias/CLionProjects/PAD2/aufgabe1b.h">
+			<Option target="PAD2"/>
+		</Unit>
 		<Unit filename="/home/tobias/CLionProjects/PAD2/main.cpp">
 			<Option target="PAD2"/>
 		</Unit>
