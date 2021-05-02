@@ -142,6 +142,33 @@ PAD2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/build
 .PHONY : PAD2/fast
 
+aufgabe1a.o: aufgabe1a.cpp.o
+
+.PHONY : aufgabe1a.o
+
+# target to build an object file
+aufgabe1a.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/aufgabe1a.cpp.o
+.PHONY : aufgabe1a.cpp.o
+
+aufgabe1a.i: aufgabe1a.cpp.i
+
+.PHONY : aufgabe1a.i
+
+# target to preprocess a source file
+aufgabe1a.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/aufgabe1a.cpp.i
+.PHONY : aufgabe1a.cpp.i
+
+aufgabe1a.s: aufgabe1a.cpp.s
+
+.PHONY : aufgabe1a.s
+
+# target to generate assembly for a file
+aufgabe1a.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/aufgabe1a.cpp.s
+.PHONY : aufgabe1a.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -178,6 +205,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... PAD2"
+	@echo "... aufgabe1a.o"
+	@echo "... aufgabe1a.i"
+	@echo "... aufgabe1a.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

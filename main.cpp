@@ -1,6 +1,6 @@
 #include <iostream>
-
+#include "aufgabe1a.h"
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    start1a();
     return 0;
 }
