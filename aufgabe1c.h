@@ -7,6 +7,6 @@
 
 
 void start1c();
-double sqrt(double number, int times, double a);
-double sqrt(double number, int times);
+long double sqrt(long double number, long double accuracy);
+long double sqrt(long double number, long double accuracy, long double start);
 #endif //PAD2_AUFGABE1C_H

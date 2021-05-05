@@ -2,6 +2,6 @@
 #include "aufgabe1c.h"
 #include "aufgabe2.h"
 int main() {
-    start2();
+    start1c();
     return 0;
 }

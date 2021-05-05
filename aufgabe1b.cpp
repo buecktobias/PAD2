@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include "aufgabe1b.h"
-void start1c(){
+void start1b(){
     double number;
     std::cout << "Geben Sie eine Gleitkommazahl >= 0 ein:";
     std::cin >> number;
