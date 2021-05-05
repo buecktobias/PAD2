@@ -1,5 +1,5 @@
 #include <iostream>
-#include "aufgabe1b.h"
+#include "aufgabe1c.h"
 #include "aufgabe2.h"
 int main() {
     start2();
