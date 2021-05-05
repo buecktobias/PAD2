@@ -277,6 +277,33 @@ aufgabe3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/aufgabe3.cpp.s
 .PHONY : aufgabe3.cpp.s
 
+aufgabe4.o: aufgabe4.cpp.o
+
+.PHONY : aufgabe4.o
+
+# target to build an object file
+aufgabe4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/aufgabe4.cpp.o
+.PHONY : aufgabe4.cpp.o
+
+aufgabe4.i: aufgabe4.cpp.i
+
+.PHONY : aufgabe4.i
+
+# target to preprocess a source file
+aufgabe4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/aufgabe4.cpp.i
+.PHONY : aufgabe4.cpp.i
+
+aufgabe4.s: aufgabe4.cpp.s
+
+.PHONY : aufgabe4.s
+
+# target to generate assembly for a file
+aufgabe4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PAD2.dir/build.make CMakeFiles/PAD2.dir/aufgabe4.cpp.s
+.PHONY : aufgabe4.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -328,6 +355,9 @@ help:
 	@echo "... aufgabe3.o"
 	@echo "... aufgabe3.i"
 	@echo "... aufgabe3.s"
+	@echo "... aufgabe4.o"
+	@echo "... aufgabe4.i"
+	@echo "... aufgabe4.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

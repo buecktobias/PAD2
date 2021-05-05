@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/PAD2.dir/aufgabe1c.cpp.o"
   "CMakeFiles/PAD2.dir/aufgabe2.cpp.o"
   "CMakeFiles/PAD2.dir/aufgabe3.cpp.o"
+  "CMakeFiles/PAD2.dir/aufgabe4.cpp.o"
   "CMakeFiles/PAD2.dir/main.cpp.o"
   "PAD2"
   "PAD2.pdb"
