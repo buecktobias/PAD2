@@ -3,6 +3,7 @@
 //
 #include <iostream>
 #include "aufgabe1c.h"
+#include <cmath>
 
 void start1c(){
     long double number, accuracy;
@@ -13,6 +14,7 @@ void start1c(){
     auto result = sqrt(number, accuracy);
     std::cout << std::endl;
     std::cout << "Die Quadratwurzel von " << number <<" ist "<< result << std::endl;
+    std::cout << "Die Quadratwurzel mit cmath ist "<< std::sqrt(number) << std::endl;
 }
 long double sqrt(long double num, long double accuracy) {
     return sqrt(num, accuracy, num);
